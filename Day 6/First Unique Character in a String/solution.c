@@ -1,10 +1,11 @@
 
 
 int firstUniqChar(char * s){
-    
+    /*
     if (s == 1) {
         return 0;
     }
+    */
     
     int hash[26] = {0};
     
